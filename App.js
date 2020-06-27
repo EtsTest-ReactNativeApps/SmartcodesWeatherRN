@@ -218,7 +218,6 @@ const App: () => React$Node = () => {
                   height: '85%'
               }}>
                   <ActivityIndicator size="large" color="#0000ff" />
-                  <Text style={{ textAlign : "center" }}> Loading Info ...</Text>
               </View>
 
               :
